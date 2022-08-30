@@ -1,0 +1,20 @@
+{
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.03137 0.04314 0.08627"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "Destiny2 DSC",
+	"type" : "scene",
+	"version" : 0
+}
